@@ -7,10 +7,9 @@ Intra/Internetworked Information Gathering Toolset all within the comfort of you
 *Release?* (TBD)
 
 ### *Login Page*
-![image](https://github.com/user-attachments/assets/49043589-08ae-4625-a97c-947b2e0d4503)
+![image](https://github.com/user-attachments/assets/2b353f92-04e2-4b08-9ffd-1c18919898e8)
 
-### *Source*
-![image](https://github.com/user-attachments/assets/60dc18af-3c95-4975-86c2-cc5e62513f75)
-
+### *Websocket Shell*
+![image](https://github.com/user-attachments/assets/76e061c3-6904-4745-81c5-bc76f0dcda07)
 
 *Do not be mistaken from the simplistic CSS styling, that is the design point. "Old school" styling options equate to a minimalistic theme.*
