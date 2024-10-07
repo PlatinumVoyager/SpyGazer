@@ -18,5 +18,4 @@ Intra/Internetworked Information Gathering Toolset all within the comfort of you
 <hr>
 
 ### > *Websocket Shell*
-![image](https://github.com/user-attachments/assets/76e061c3-6904-4745-81c5-bc76f0dcda07)
-<hr>
+![image](https://github.com/user-attachments/assets/4b6310b6-5437-4977-934c-ea18b216ffdd)
