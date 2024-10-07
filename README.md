@@ -2,9 +2,10 @@
 Intra/Internetworked Information Gathering Toolset all within the comfort of your browser.
 
 ### Built With:
-* [The Bottle web framework](https://bottlepy.org/docs/dev/) - for static/dynamic routing functionality.
-* `gevent`, `geventwebsocket` for the websocket server.
-* Client-side Javascript for communicating with the websocket server.
+* [The Bottle web framework](https://bottlepy.org/docs/dev/) - for web application path/request routing functionality.
+* [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) - for the user-interface, files are hosted statically by SPYGAZER.
+* `gevent`, `geventwebsocket` for client-side request routing throughout the front-end (Bottle) web application server.
+* Client-side Javascript for communicating with the python WSGI websocket server.
 * ❤️
 
 *Release?* (TBD)
