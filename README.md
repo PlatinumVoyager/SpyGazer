@@ -29,13 +29,20 @@ SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed
 
 <h3><u>Websocket Shell Features:</u></h3>
 
-* Command execution on the fly.
-* In-built Python3 script manager (run, import).
-* Server wide shutdown capability.
-* Variable range text marking (highlighting).
-* Quick-access color customization options.
-* Command and UI based `clear` functionality.
-* "Click-back" to console/terminal for responsive minimization of the navagation bar.
+1. Command execution on the fly.
+1. In-built Python3 script manager (run, import).
+1. Server wide shutdown capability.
+1. Variable range text marking (highlighting).
+   * Useful for color coding specific lines, characters or entire fields of text within the bounds of the console context.
+1. Quick-access color customization options.
+   * No need to access the navigation bar "Terminal Settings" in order to change color options. 
+1. Command and UI based `clear` functionality.
+   * Recursively delete the necessary child-elements to "reset" the screen origin back to default behavior.
+      * *NOTE*: Default behavior = reloading the URI `/subshell`  
+1. "Click-back" to console/terminal for responsive minimization of the navagation bar.
+   * Allows both mobile and desktop operators to actively reposition the navbar when resuming console command invocations.
+1. Back-end websocket server network status (ONLINE/OFFLINE) profiling detection.
+1. Custom packet crafted Traceroute/ICMP facilities to extrapolate information pertaining to the functionality of the websocket server.
 
 <hr>
 
