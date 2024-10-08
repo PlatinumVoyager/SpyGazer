@@ -14,6 +14,11 @@ SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed
 * Client-side Javascript for communicating with the python WSGI websocket server.
 * Made with ❤️
 
+## Documentation
+The associated documentation will be available/produced as:
+   * A `.pdf` (Portable Document File) and subsequently made accessible when the project is open sourced with a public release coming in version 1.0.0.
+   * A Github markdown based "wiki" page. (*NOTE*: This will be posted shortly after the `.pdf` file is integrated into this public repository)
+
 *Release?* (TBD)
 
 ## Preview
