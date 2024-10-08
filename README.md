@@ -18,8 +18,21 @@ Intra/Internetworked Information Gathering Toolset all within the comfort of you
 <hr>
 
 ### > *Websocket Shell*
-![image](https://github.com/user-attachments/assets/4b6310b6-5437-4977-934c-ea18b216ffdd)
 
+![image](https://github.com/user-attachments/assets/2ed0c99a-0d52-415b-ac29-76fabcdc8d49)
+
+
+<h3><u>Websocket Shell Features:</u></h3>
+
+* Command execution on the fly.
+* In-built Python3 script manager (run, import).
+* Server wide shutdown capability.
+* Variable range text marking (highlighting).
+* Quick-access color customization options.
+* Command and UI based `clear` functionality.
+* "Click-back" to console/terminal for responsive minimization of the navagation bar.
+
+<hr>
 
 ### > *Responsive Layout Positioning*
 ![image](https://github.com/user-attachments/assets/9aab556d-afb0-492c-8a42-6b2aecb12027)
