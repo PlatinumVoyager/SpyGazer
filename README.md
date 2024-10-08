@@ -19,3 +19,9 @@ Intra/Internetworked Information Gathering Toolset all within the comfort of you
 
 ### > *Websocket Shell*
 ![image](https://github.com/user-attachments/assets/4b6310b6-5437-4977-934c-ea18b216ffdd)
+
+
+### > *Responsive Layout Positioning*
+![image](https://github.com/user-attachments/assets/9aab556d-afb0-492c-8a42-6b2aecb12027)
+
+![image](https://github.com/user-attachments/assets/787512cf-6b2f-4e9e-bb83-a08186c85d09)
