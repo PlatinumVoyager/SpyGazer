@@ -1,6 +1,11 @@
 # SPYGAZER
 Intra/Internetworked Information Gathering Toolset all within the comfort of your browser.
 
+### What is SPYGAZER?
+
+SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed at establishing an *informational collective dominion* over the current subnetwork in which it is configured/hosted.
+
+
 ### Built With:
 * [Bottle](https://bottlepy.org/docs/dev/) - a lightweight WSGI micro web-framework used by the web application for path/request routing functionality.
     * *Web Server Gateway Interface* (WSGI) - standard specification (PEP 3333) upon which servers and python web applications/frameworks can communicate. Read more [here](https://peps.python.org/pep-3333/).
