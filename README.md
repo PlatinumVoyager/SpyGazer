@@ -47,8 +47,10 @@ SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed
 <hr>
 
 ### > *Responsive Layout Positioning*
-*NOTE*: Details displayed in regards to the phones virtual viewport boundary being set/emulated to that of a Samsung Galaxy S20 is irrelevant to the re-sizing/positioning ability that native Bootstrap elements offer. The bounds of each element will be scaled according to the unique physical mobile device itself.
+*NOTE*: Details displayed in regards to the phones virtual viewport boundary being set/emulated to that of a Samsung Galaxy S20 is irrelevant to the re-sizing/positioning ability that native Bootstrap elements have to offer. The bounds of each element will be scaled in accordance with the mobile devices unique physical layout itself.
 
 ![image](https://github.com/user-attachments/assets/f116f4a4-c53c-4538-8ebb-e7c645efd232)
+
+![image](https://github.com/user-attachments/assets/37a13260-8a9d-41cc-9d8c-8a8a78baadfe)
 
 ![image](https://github.com/user-attachments/assets/787512cf-6b2f-4e9e-bb83-a08186c85d09)
