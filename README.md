@@ -1,5 +1,9 @@
 # SPYGAZER
-Intra/Internetworked Information Gathering Toolset all within the comfort of your browser.
+
+[![PlatinumVoyager - SpyGazer](https://img.shields.io/static/v1?label=PlatinumVoyager&message=SpyGazer&color=blue&logo=github)](https://github.com/PlatinumVoyager/SpyGazer "Go to GitHub repo")
+[![stars - SpyGazer](https://img.shields.io/github/stars/PlatinumVoyager/SpyGazer?style=social)](https://github.com/PlatinumVoyager/SpyGazer)
+[![forks - SpyGazer](https://img.shields.io/github/forks/PlatinumVoyager/SpyGazer?style=social)](https://github.com/PlatinumVoyager/SpyGazer)
+[![License](https://img.shields.io/badge/License-The_Unlicense-blue)](#license)
 
 > [!NOTE]
 > To view the latest update in accordance with official status of SPYGAZER, continue to the bottom of the current page listing.
