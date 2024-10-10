@@ -28,7 +28,8 @@ The associated documentation will be available/produced as:
       * This will include general documentation for the current page, and a listing breakdown of the functionality of said page.
       * Documentation for the entire SPYGAZER web application may be built into the server directory itself at a later point in time.
 
-*Release?* (TBD)
+### *Release?* 
+To be determined.
 
 ## Preview
 
