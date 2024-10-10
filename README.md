@@ -54,6 +54,12 @@ The associated documentation will be available/produced as:
 
 <hr>
 
+### > *UPDATE: Support for in-built documentation*
+
+![image](https://github.com/user-attachments/assets/a2b1d3a9-d683-4fd9-b61f-fa7e165064cc)
+
+*Above Image: When testing in the latest release of the `Firefox` web browser.*
+
 ### > *Responsive Layout Positioning*
 *NOTE*: Details displayed in regards to the phones virtual viewport boundary being set/emulated to that of a Samsung Galaxy S20 is irrelevant to the re-sizing/positioning ability that native Bootstrap elements have to offer. The bounds of each element will be scaled in accordance with the mobile devices unique physical layout itself.
 
