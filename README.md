@@ -18,6 +18,9 @@ SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed
 The associated documentation will be available/produced as:
    * A `.pdf` (Portable Document File) and subsequently made accessible when the project is open sourced with a public release coming in version 1.0.0.
    * A Github markdown based "wiki" page. (*NOTE*: This will be posted shortly after the `.pdf` file is integrated into this public repository)
+   * Each subsequent main route (i.e, /subshell, /dashboard) will have available help upon clicking the associated button.
+      * This will include general documentation for the current page, and a listing breakdown of the functionality of said page.
+      * Documentation for the entire SPYGAZER web application may be built into the server directory itself at a later point in time.
 
 *Release?* (TBD)
 
