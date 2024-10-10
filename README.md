@@ -38,9 +38,7 @@ To be determined.
 <hr>
 
 ### > *Websocket Shell*
-
-![image](https://github.com/user-attachments/assets/2ed0c99a-0d52-415b-ac29-76fabcdc8d49)
-
+![image](https://github.com/user-attachments/assets/3011dc6e-1d3b-4737-a063-6586e38259ee)
 
 <h3><u>Websocket Shell Features:</u></h3>
 
