@@ -47,6 +47,7 @@ To be determined.
    * ![image](https://github.com/user-attachments/assets/d0f3ae32-01b7-46ef-8b6a-d60262cf6ee5)
     
 1. Server wide shutdown capability.
+   * ![image](https://github.com/user-attachments/assets/787512cf-6b2f-4e9e-bb83-a08186c85d09)
 1. Variable range text marking (highlighting).
    * Useful for color coding specific lines, characters or entire fields of text within the bounds of the console context.
 1. Quick-access color customization options.
@@ -74,4 +75,6 @@ To be determined.
 
 ![image](https://github.com/user-attachments/assets/37a13260-8a9d-41cc-9d8c-8a8a78baadfe)
 
-![image](https://github.com/user-attachments/assets/787512cf-6b2f-4e9e-bb83-a08186c85d09)
+### > *Source Update Listing*
+![image](https://github.com/user-attachments/assets/1197724b-c3f1-4052-8322-ae41f263dfea)
+
