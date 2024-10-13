@@ -44,6 +44,8 @@ To be determined.
 
 1. Command execution on the fly.
 1. In-built Python3 script manager (run, import).
+   * ![image](https://github.com/user-attachments/assets/d0f3ae32-01b7-46ef-8b6a-d60262cf6ee5)
+    
 1. Server wide shutdown capability.
 1. Variable range text marking (highlighting).
    * Useful for color coding specific lines, characters or entire fields of text within the bounds of the console context.
