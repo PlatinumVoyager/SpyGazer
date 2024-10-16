@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-The_Unlicense-blue)](https://github.com/PlatinumVoyager/SpyGazer/blob/main/LICENSE)
 
 > [!NOTE]
-> To view the latest update in accordance with official status of SPYGAZER, continue to the bottom of the current page listing.
+> To view the latest update in accordance with the official status of SPYGAZER, continue to the bottom of the current page listing.
 
 ### What is SPYGAZER?
 
