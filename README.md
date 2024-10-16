@@ -37,6 +37,9 @@ To be determined.
 ![image](https://github.com/user-attachments/assets/2b353f92-04e2-4b08-9ffd-1c18919898e8)
 <hr>
 
+### > *Main Dashboard (work-in progress)*
+![image](https://github.com/user-attachments/assets/d2aa415e-3489-4f1b-b834-0a70e2113a0a)
+
 ### > *Websocket Shell*
 ![image](https://github.com/user-attachments/assets/3011dc6e-1d3b-4737-a063-6586e38259ee)
 
