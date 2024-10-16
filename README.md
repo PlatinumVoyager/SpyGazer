@@ -11,6 +11,7 @@
 ### What is SPYGAZER?
 
 SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed at establishing an *informational collective dominion* over the current subnetwork in which it is configured/hosted.
+* *Informational Collective Dominion* - the substratum in which SPYGAZER operates is as follows: Have a "spyglass view" of the current network in which the HTTP TCP/IP server has been established.
 
 ### Built With:
 * [Bottle](https://bottlepy.org/docs/dev/) - a lightweight WSGI micro web-framework used by the web application for path/request routing functionality.
