@@ -39,7 +39,7 @@ To be determined.
 <hr>
 
 ### > *Main Dashboard (work-in progress)*
-![image](https://github.com/user-attachments/assets/46d05374-92fd-4e88-8d02-cb2bc435d288)
+![image](https://github.com/user-attachments/assets/9660e330-867a-483f-ac33-1e06bd79761f)
 
 ### > *Websocket Shell*
 ![image](https://github.com/user-attachments/assets/3011dc6e-1d3b-4737-a063-6586e38259ee)
