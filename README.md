@@ -32,7 +32,10 @@ The associated documentation will be available/produced as:
 ### *Release?* 
 To be determined.
 
-## Preview
+## Preview > *GUI Update* (Process Manager)
+* *All images depicted are a work-in progress and are not final.*
+  
+![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
 
 ### > *Login Page*
 ![image](https://github.com/user-attachments/assets/2b353f92-04e2-4b08-9ffd-1c18919898e8)
@@ -78,7 +81,3 @@ To be determined.
 ![image](https://github.com/user-attachments/assets/f116f4a4-c53c-4538-8ebb-e7c645efd232)
 
 ![image](https://github.com/user-attachments/assets/37a13260-8a9d-41cc-9d8c-8a8a78baadfe)
-
-### > *Source Update Listing*
-![image](https://github.com/user-attachments/assets/46f7c946-8173-46fa-947f-05250bd06da8)
-
