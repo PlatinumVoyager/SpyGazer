@@ -8,12 +8,12 @@
 > [!NOTE]
 > This project is undergoing active development. There is no official release date as of now. Stand by.
 
-### What is SPYGAZER?
+### <ins>What is SPYGAZER?</ins>
 
 SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed at establishing an *informational collective dominion* over the current subnetwork in which it is configured/hosted.
 * *Informational Collective Dominion* - the substratum in which SPYGAZER operates is as follows: Have a "spyglass view" of the current network in which the PeekingGlass HTTP TCP/IP server has been established.
 ‎
-### Built With:
+### <ins>Built With</ins>
 * [Bottle](https://bottlepy.org/docs/dev/) - a lightweight WSGI micro web-framework used by the web application for path/request routing functionality.
     * *Web Server Gateway Interface* (WSGI) - standard specification (PEP 3333) upon which servers and python web applications/frameworks can communicate. Read more [here](https://peps.python.org/pep-3333/).
  
@@ -23,6 +23,9 @@ SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed
 * Client-side Javascript for communicating with the python WSGI websocket server.
 * Made with ❤️
 
+### <ins>Release?</ins> 
+*To be determined.*
+
 ## Documentation
 The associated documentation will be available/produced as:
    * A `.pdf` (Portable Document File) file subsequently made accessible when the project is open sourced with a public release coming in version 1.0.0.
@@ -31,37 +34,50 @@ The associated documentation will be available/produced as:
    * Each subsequent main route (i.e, /spygazer/subshell, /spygazer/dashboard) will have available help upon clicking the associated button.
       * This will include general documentation for the current page, and a listing breakdown of the functionality of said page.
       * Documentation for the entire SPYGAZER web application may be built into the server directory itself at a later point in time.
-
 <br>
 
-## *Release?* 
-To be determined.
+## Graphical User Interface Preview
+> [!WARNING]
+> *All images depicted are a work-in progress and are not final.*
 
-<hr>
-
-### > Preview: *GUI Update* (Process Manager)
-* *All images depicted are a work-in progress and are not final.*
-  
-![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
-
-### > *Login Page*
+### > <ins>*Login Page*</ins>
 ![image](https://github.com/user-attachments/assets/2b353f92-04e2-4b08-9ffd-1c18919898e8)
 <hr>
 
-### > *Main Dashboard (work-in progress)*
+### > <ins>*Main Dashboard*</ins> (work-in progress)
+* Live animated background.
+* Real-time server updates within the dashboard viewport panel.
+  
 ![image](https://github.com/user-attachments/assets/866e2fe9-6f4b-49c7-a1f1-bd5032071cc6)
 
-### > *Websocket Shell*
+### > <ins>*Process Manager*</ins> (work-in progress)
+* *This will be integrated into the main dashboard before release.*
+  
+![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
+<hr>
+
+### > <ins>*Websocket Shell*</ins> (work-in progress)
+* Support for CSS (*Cascading Style Sheets*) font-family and font-size custom user defined declarations via JavaScript DOM manipulation will come before release.
+  
 ![image](https://github.com/user-attachments/assets/3011dc6e-1d3b-4737-a063-6586e38259ee)
 
-<h3><u>Websocket Shell Features:</u></h3>
+### > <ins>*Responsive Layout Positioning*</ins> (Mobile Operators)
+> [!NOTE]
+> For remote clients using a mobile device, custom JavaScript and CSS styling has been built into the application beyond that of the original bootstrap base functionality. This will correctly position elements justly to accomodate for a narrower virtual viewport.
+
+![image](https://github.com/user-attachments/assets/9637b932-6d88-4fb9-90e7-cb0c86c3b693)
+
+![image](https://github.com/user-attachments/assets/f9de5143-2528-4f95-afe1-92ed09f9ba44)
+
+<h3><ins>Websocket Shell Features</ins></h3>
 
 1. Command execution on the fly.
 1. In-built Python3 script manager (run, import).
-   * ![image](https://github.com/user-attachments/assets/9e5313d7-1279-4575-a6bd-da112f248d7d)
+   * ![image](https://github.com/user-attachments/assets/b9afba97-8330-48c6-b89e-649485021f61)
     
 1. Server wide shutdown capability (*must provide server shutdown key*).
-   ![image](https://github.com/user-attachments/assets/2ed3030a-d5ee-473c-b303-4cf4d2a578f1)
+   
+   ![image](https://github.com/user-attachments/assets/524898fc-93b7-447a-b25a-f6f74f51f9b6)
 
 1. Variable range text marking (highlighting).
    * Useful for color coding specific lines, characters or entire fields of text within the bounds of the console context.
@@ -77,15 +93,8 @@ To be determined.
 
 <hr>
 
-### > *UPDATE: Support for in-built documentation*
+### > <ins>*Support for in-built documentation*</ins>
 
 ![image](https://github.com/user-attachments/assets/a2b1d3a9-d683-4fd9-b61f-fa7e165064cc)
 
 *Above Image: When testing in the latest release of the `Firefox` web browser.*
-
-### > *Responsive Layout Positioning*
-*NOTE*: Details displayed in regards to the phones virtual viewport boundary being set/emulated to that of a Samsung Galaxy S20 is irrelevant to the re-sizing/positioning ability that native Bootstrap elements have to offer. The bounds of each element will be scaled in accordance with the mobile devices unique physical layout itself.
-
-![image](https://github.com/user-attachments/assets/f116f4a4-c53c-4538-8ebb-e7c645efd232)
-
-![image](https://github.com/user-attachments/assets/f9de5143-2528-4f95-afe1-92ed09f9ba44)
