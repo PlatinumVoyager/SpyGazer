@@ -32,7 +32,7 @@ The associated documentation will be available/produced as:
 ### *Release?* 
 To be determined.
 
-## Preview > *GUI Update* (Process Manager)
+### > Preview: *GUI Update* (Process Manager)
 * *All images depicted are a work-in progress and are not final.*
   
 ![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
