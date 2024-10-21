@@ -1,4 +1,4 @@
-# SPYGAZER 🕵️
+# SPYGAZER <img src="https://github.com/user-attachments/assets/b1a0ca24-0e4b-4902-9ff1-f3c769fd90ee" width="40" height="40">
 
 [![PlatinumVoyager - SpyGazer](https://img.shields.io/static/v1?label=PlatinumVoyager&message=SpyGazer&color=blue&logo=github)](https://github.com/PlatinumVoyager/SpyGazer "Go to GitHub repo")
 [![stars - SpyGazer](https://img.shields.io/github/stars/PlatinumVoyager/SpyGazer?style=social)](https://github.com/PlatinumVoyager/SpyGazer)
@@ -12,25 +12,32 @@
 
 SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed at establishing an *informational collective dominion* over the current subnetwork in which it is configured/hosted.
 * *Informational Collective Dominion* - the substratum in which SPYGAZER operates is as follows: Have a "spyglass view" of the current network in which the PeekingGlass HTTP TCP/IP server has been established.
-
+‎
 ### Built With:
 * [Bottle](https://bottlepy.org/docs/dev/) - a lightweight WSGI micro web-framework used by the web application for path/request routing functionality.
     * *Web Server Gateway Interface* (WSGI) - standard specification (PEP 3333) upon which servers and python web applications/frameworks can communicate. Read more [here](https://peps.python.org/pep-3333/).
+ 
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) - for the user-interface, files are hosted statically by SPYGAZER.
 * `gevent`, `geventwebsocket` - for server-side request routing throughout the front-end (Bottle) web application server.
+‎
 * Client-side Javascript for communicating with the python WSGI websocket server.
 * Made with ❤️
 
 ## Documentation
 The associated documentation will be available/produced as:
-   * A `.pdf` (Portable Document File) and subsequently made accessible when the project is open sourced with a public release coming in version 1.0.0.
+   * A `.pdf` (Portable Document File) file subsequently made accessible when the project is open sourced with a public release coming in version 1.0.0.
    * A Github markdown based "wiki" page. (*NOTE*: This will be posted shortly after the `.pdf` file is integrated into this public repository)
+     
    * Each subsequent main route (i.e, /spygazer/subshell, /spygazer/dashboard) will have available help upon clicking the associated button.
       * This will include general documentation for the current page, and a listing breakdown of the functionality of said page.
       * Documentation for the entire SPYGAZER web application may be built into the server directory itself at a later point in time.
 
-### *Release?* 
+<br>
+
+## *Release?* 
 To be determined.
+
+<hr>
 
 ### > Preview: *GUI Update* (Process Manager)
 * *All images depicted are a work-in progress and are not final.*
@@ -42,7 +49,7 @@ To be determined.
 <hr>
 
 ### > *Main Dashboard (work-in progress)*
-![image](https://github.com/user-attachments/assets/9660e330-867a-483f-ac33-1e06bd79761f)
+![image](https://github.com/user-attachments/assets/866e2fe9-6f4b-49c7-a1f1-bd5032071cc6)
 
 ### > *Websocket Shell*
 ![image](https://github.com/user-attachments/assets/3011dc6e-1d3b-4737-a063-6586e38259ee)
