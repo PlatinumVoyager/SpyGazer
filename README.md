@@ -53,8 +53,9 @@ To be determined.
 1. In-built Python3 script manager (run, import).
    * ![image](https://github.com/user-attachments/assets/9e5313d7-1279-4575-a6bd-da112f248d7d)
     
-1. Server wide shutdown capability.
-   * ![image](https://github.com/user-attachments/assets/787512cf-6b2f-4e9e-bb83-a08186c85d09)
+1. Server wide shutdown capability (*must provide server shutdown key*).
+   ![image](https://github.com/user-attachments/assets/2ed3030a-d5ee-473c-b303-4cf4d2a578f1)
+
 1. Variable range text marking (highlighting).
    * Useful for color coding specific lines, characters or entire fields of text within the bounds of the console context.
 1. Quick-access color customization options.
