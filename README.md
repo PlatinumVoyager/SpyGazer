@@ -51,7 +51,7 @@ To be determined.
 
 1. Command execution on the fly.
 1. In-built Python3 script manager (run, import).
-   * ![image](https://github.com/user-attachments/assets/d0f3ae32-01b7-46ef-8b6a-d60262cf6ee5)
+   * ![image](https://github.com/user-attachments/assets/9e5313d7-1279-4575-a6bd-da112f248d7d)
     
 1. Server wide shutdown capability.
    * ![image](https://github.com/user-attachments/assets/787512cf-6b2f-4e9e-bb83-a08186c85d09)
