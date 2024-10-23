@@ -56,9 +56,7 @@ The associated documentation will be available/produced as:
 ![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
 
 ### > <ins>*Process Manager*</ins> (Dashboard Integration)
-* *NOTE: Never expose your working directories that contain user information such as below, this is a VM that is only being used for testing purposes.*
-  
-![image](https://github.com/user-attachments/assets/8ac39ca5-94ee-47fc-9653-24220a2d71e7)
+![image](https://github.com/user-attachments/assets/d261348e-bc14-46cc-ae02-ded6d60dcc7b)
 
 <hr>
 
