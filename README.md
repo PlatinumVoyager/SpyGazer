@@ -48,7 +48,7 @@ The associated documentation will be available/produced as:
 * Live animated background.
 * Real-time server updates within the dashboard viewport panel.
   
-![image](https://github.com/user-attachments/assets/866e2fe9-6f4b-49c7-a1f1-bd5032071cc6)
+![image](https://github.com/user-attachments/assets/b2771d58-8162-4ecb-8e4c-cb13eecc4d8b)
 
 ### > <ins>*Process Manager*</ins> (work-in progress)
 * *This will be integrated into the main dashboard before release.*
