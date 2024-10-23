@@ -54,6 +54,10 @@ The associated documentation will be available/produced as:
 * *This will be integrated into the main dashboard before release.*
   
 ![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
+
+### > <ins>*Process Manager*</ins> (Dashboard Integration)
+![image](https://github.com/user-attachments/assets/45ab2da8-a14b-41d5-81d6-26202887363d)
+
 <hr>
 
 ### > <ins>*Websocket Shell*</ins> (work-in progress)
