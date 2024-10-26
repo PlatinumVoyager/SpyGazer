@@ -55,8 +55,16 @@ The associated documentation will be available/produced as:
   
 ![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
 
-### > <ins>*Process Manager*</ins> (Dashboard Integration)
+### > <ins>*Process Manager*</ins> (Dashboard Integration OLD)
 ![image](https://github.com/user-attachments/assets/d261348e-bc14-46cc-ae02-ded6d60dcc7b)
+
+### > <ins>*Process Manager*</ins> (Dashboard Integration NEW)
+* Added the ability to search through processes for information which concerns the following:
+   * Searching for the name of the process.
+   * Searching for the status of the process. (ex: "Status: running" | "running") <- within the process search bar
+   * Searching for ANY/* other text that is contained within the bounds of the process container.
+         
+![image](https://github.com/user-attachments/assets/b52a1a4d-60ac-4111-8759-3e883421854d)
 
 <hr>
 
