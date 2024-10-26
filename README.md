@@ -65,6 +65,7 @@ The associated documentation will be available/produced as:
    * Searching for ANY/* other text that is contained within the bounds of the process container.
          
 ![image](https://github.com/user-attachments/assets/b52a1a4d-60ac-4111-8759-3e883421854d)
+![image](https://github.com/user-attachments/assets/1cd72d31-624f-4524-9d03-ef6a2108ffaf)
 
 <hr>
 
