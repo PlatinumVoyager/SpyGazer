@@ -59,14 +59,15 @@ The associated documentation will be available/produced as:
 ![image](https://github.com/user-attachments/assets/d261348e-bc14-46cc-ae02-ded6d60dcc7b)
 
 ### > <ins>*Process Manager*</ins> (Dashboard Integration NEW)
+![image](https://github.com/user-attachments/assets/be0a55d5-009b-4d62-b1e0-c99f71adac4e)
+
 * Added the ability to search through processes for information which concerns the following:
    * Name of the process.
-   * Status of the process. (ex: "Status: running" | "running") <- within the process search bar
+   * Status of the process: *Running*, *Sleeping*, *Idle*. (ALL supported process state types can be seen in the image below)
+      * ![image](https://github.com/user-attachments/assets/a0f96036-e237-4401-bdd5-a6526f37cbc5)
+   * Process states can be filtered with the click of a button via the "Process Stats" dropdown menu within the Process Managers sub-window context.
    * ANY/* other text that is contained within the bounds of the process container.
          
-![image](https://github.com/user-attachments/assets/ab6aceed-6798-4d03-8532-5b6a6cb14b4a)
-![image](https://github.com/user-attachments/assets/2eba99f8-ed3a-40b0-b784-3868a5ab885b)
-
 <hr>
 
 ### > <ins>*Websocket Shell*</ins> (work-in progress)
