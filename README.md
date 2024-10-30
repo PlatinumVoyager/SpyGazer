@@ -59,7 +59,11 @@ The associated documentation will be available/produced as:
 ![image](https://github.com/user-attachments/assets/d261348e-bc14-46cc-ae02-ded6d60dcc7b)
 
 ### > <ins>*Process Manager*</ins> (Dashboard Integration NEW)
-![image](https://github.com/user-attachments/assets/a5b4a5e8-7e75-4264-b3f3-98f2f88f899c)
+![image](https://github.com/user-attachments/assets/ff6358e2-43c7-4d7f-849f-21ef909ea837)
+
+![image](https://github.com/user-attachments/assets/084bb4f2-b3e0-47cd-b34a-47a0f7b936ad)
+
+![image](https://github.com/user-attachments/assets/bb83c74f-6ae6-4aff-acd7-fb09a55f4080)
 
 * Added the ability to search through processes for information which concerns the following:
    * Name of the process.
