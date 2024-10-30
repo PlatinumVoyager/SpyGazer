@@ -65,6 +65,8 @@ The associated documentation will be available/produced as:
 
 ![image](https://github.com/user-attachments/assets/bb83c74f-6ae6-4aff-acd7-fb09a55f4080)
 
+![image](https://github.com/user-attachments/assets/0c81f273-2504-4c6f-898b-5d0e2811c822)
+
 * Added the ability to search through processes for information which concerns the following:
    * Name of the process.
    * Status of the process: *Running*, *Sleeping*, *Idle*. (ALL supported process state types can be seen in the image below)
