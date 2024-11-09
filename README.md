@@ -67,7 +67,7 @@ The associated documentation will be available/produced as:
 
 ![image](https://github.com/user-attachments/assets/0c81f273-2504-4c6f-898b-5d0e2811c822)
 
-![image](https://github.com/user-attachments/assets/c96e599e-8b91-4d9b-93e3-06487ae1e23e)
+![image](https://github.com/user-attachments/assets/713f3185-eb3f-4792-be10-cf5dd4a2c54c)
 
 * Added the ability to search through processes for information which concerns the following:
    * Name of the process.
