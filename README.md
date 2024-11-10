@@ -1,4 +1,4 @@
-# SPYGAZER <img src="https://github.com/user-attachments/assets/b1a0ca24-0e4b-4902-9ff1-f3c769fd90ee" width="40" height="40">
+# SPYGAZER
 
 [![PlatinumVoyager - SpyGazer](https://img.shields.io/static/v1?label=PlatinumVoyager&message=SpyGazer&color=blue&logo=github)](https://github.com/PlatinumVoyager/SpyGazer "Go to GitHub repo")
 [![stars - SpyGazer](https://img.shields.io/github/stars/PlatinumVoyager/SpyGazer?style=social)](https://github.com/PlatinumVoyager/SpyGazer)
