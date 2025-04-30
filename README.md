@@ -41,6 +41,11 @@ The associated documentation will be available/produced as:
 > *All images depicted are a work-in progress and are not final.*
 
 ### > <ins>*Login Page*</ins>
+The SPYGAZER authentication portal (login page) has a purposefully sleek and generic graphical interface. 
+<br>
+* Features a "blacked out" form entry feature that disables the viewing of ANY characters, input, etc.
+<br>
+
 ![image](https://github.com/user-attachments/assets/2b353f92-04e2-4b08-9ffd-1c18919898e8)
 <hr>
 
@@ -50,8 +55,7 @@ The associated documentation will be available/produced as:
   
 ![image](https://github.com/user-attachments/assets/b2771d58-8162-4ecb-8e4c-cb13eecc4d8b)
 
-### > <ins>*Process Manager*</ins> (work-in progress)
-* *This will be integrated into the main dashboard before release.*
+### > <ins>*Process Manager*</ins> (OLD UI Mockup)
   
 ![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
 
@@ -59,15 +63,10 @@ The associated documentation will be available/produced as:
 ![image](https://github.com/user-attachments/assets/d261348e-bc14-46cc-ae02-ded6d60dcc7b)
 
 ### > <ins>*Process Manager*</ins> (Dashboard Integration NEW)
-![image](https://github.com/user-attachments/assets/ff6358e2-43c7-4d7f-849f-21ef909ea837)
-
-![image](https://github.com/user-attachments/assets/084bb4f2-b3e0-47cd-b34a-47a0f7b936ad)
-
-![image](https://github.com/user-attachments/assets/bb83c74f-6ae6-4aff-acd7-fb09a55f4080)
-
-![image](https://github.com/user-attachments/assets/0c81f273-2504-4c6f-898b-5d0e2811c822)
-
-![image](https://github.com/user-attachments/assets/8eb3d53b-7414-4521-8017-11e7d2268bef)
+![image](https://github.com/user-attachments/assets/6dafaedd-7ab1-457e-b10d-73890fec861a)
+![image](https://github.com/user-attachments/assets/fb3938fa-3482-4a21-8138-4fbcfb8d4c60)
+![image](https://github.com/user-attachments/assets/1ddef8b2-05a4-41db-b0e2-e426609fa76d)
+![image](https://github.com/user-attachments/assets/c4966bc7-4e92-44ec-9bfb-e6dffed55902)
 
 * Added the ability to search through processes for information which concerns the following:
    * Name of the process.
