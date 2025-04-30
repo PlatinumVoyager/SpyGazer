@@ -63,8 +63,9 @@ The SPYGAZER authentication portal (login page) has a purposefully sleek and gen
 ![image](https://github.com/user-attachments/assets/d261348e-bc14-46cc-ae02-ded6d60dcc7b)
 
 ### > <ins>*Process Manager*</ins> (Dashboard Integration NEW)
-![image](https://github.com/user-attachments/assets/6dafaedd-7ab1-457e-b10d-73890fec861a)
+![image](https://github.com/user-attachments/assets/10d09a3e-f18c-4148-9f6b-005027350fc0)
 ![image](https://github.com/user-attachments/assets/fb3938fa-3482-4a21-8138-4fbcfb8d4c60)
+![image](https://github.com/user-attachments/assets/6528c9ea-49e3-41ef-8086-b233e1eca3dd)
 ![image](https://github.com/user-attachments/assets/1ddef8b2-05a4-41db-b0e2-e426609fa76d)
 ![image](https://github.com/user-attachments/assets/c4966bc7-4e92-44ec-9bfb-e6dffed55902)
 
