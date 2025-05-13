@@ -55,6 +55,12 @@ The SPYGAZER authentication portal (login page) has a purposefully sleek and gen
   
 ![image](https://github.com/user-attachments/assets/b2771d58-8162-4ecb-8e4c-cb13eecc4d8b)
 
+### > <ins>*Main Dashboard: Systemic Logger*</ins> (work-in progress)
+* Customized logging utilities.
+* Server-wide event specific monitoring.
+  
+![image](https://github.com/user-attachments/assets/48df861b-9713-4376-b18a-3330ce26faf4)
+
 ### > <ins>*Process Manager*</ins> (OLD UI Mockup)
   
 ![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
