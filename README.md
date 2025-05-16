@@ -8,20 +8,60 @@
 > [!NOTE]
 > This project is undergoing active development. There is no official release date as of now. Stand by.
 
-### <ins>What is SPYGAZER?</ins>
+## 🔍 What is SPYGAZER?
 
-SPYGAZER (PeekingGlass Server) is an HTTP application layer (L7) webserver aimed at establishing an *informational collective dominion* over the current subnetwork in which it is configured/hosted.
-* *Informational Collective Dominion* - the substratum in which SPYGAZER operates is as follows: Have a "spyglass view" of the current network in which the PeekingGlass HTTP TCP/IP server has been established.
-‎
-### <ins>Built With</ins>
+SPYGAZER (PeekingGlass Server) is an HTTP-based application-layer (L7) server that provides **deep situational awareness** of the local subnetwork it operates within. It is engineered to offer a unified, interactive dashboard for observing, managing, and extending visibility into devices, protocols, and communication behaviors across a network.
+
+Rather than passively monitor, SPYGAZER is designed to function as a **central intelligence node** — a "spyglass" into the digital terrain of the current environment.
+
+## ✨ Key Capabilities
+
+* **Modular Dashboard** – Dynamically view network topology, system processes, engagement tools, and backend access points.
+* **Process Intelligence** – Interact with and manage server-side processes through a robust internal manager.
+* **Web Shell Access** – Seamless backend shell access from within the dashboard (e.g. subshell panel, redirectable viewport).
+* **Future Scope:**
+  * Network Manager (Wireless AP/Client view, rogue access point handling)
+  * Device Behavior Fingerprinting
+  * Live packet-based notifications or triggers
+  * Extendable modules for engagement or research actions
+
+### ⚙️ Architecture
 * [Bottle](https://bottlepy.org/docs/dev/) - a lightweight WSGI micro web-framework used by the web application for path/request routing functionality.
     * *Web Server Gateway Interface* (WSGI) - standard specification (PEP 3333) upon which servers and python web applications/frameworks can communicate. Read more [here](https://peps.python.org/pep-3333/).
- 
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) - for the user-interface, files are hosted statically by SPYGAZER.
 * `gevent`, `geventwebsocket` - for server-side request routing throughout the front-end (Bottle) web application server.
-‎
 * Client-side Javascript for communicating with the python WSGI websocket server.
+* Designed for deployment on **personal, lab, or red team subnets**
+* Embedded HTTP server logic with a dynamic frontend
+* Lightweight footprint and highly customizable modules
 * Made with ❤️
+
+## 📜 Ethical Use Policy
+
+SPYGAZER is intended **strictly for use in authorized environments** — networks you own or are explicitly permitted to audit, test, or research. While its capabilities are powerful, its purpose is to enable **defensive research, diagnostics, education, and controlled experimentation.**
+
+Any unauthorized deployment or use may violate local, state, or federal law.
+
+> "Power without ethics corrupts absolutely. SPYGAZER's vision is only as righteous as the hands it serves."
+
+## 🔮 Development Philosophy
+
+SPYGAZER is being built as both a **creative lab project** and a **potential platform for advanced security research.**
+* **Public Path**: Secure, ethical, and open-source components intended for community collaboration, learning, and experimentation.
+* **Private Path** *(Optional)*: Reserved features for controlled environments, red team simulation, and highly customized infrastructure operations.
+
+## 📁 Repository Status
+
+* 🛠️ Active Development
+* Code currently private
+
+## 📌 Author
+
+Created and maintained by [PlatinumVoyager](https://github.com/PlatinumVoyager)
+
+## Disclaimer
+
+This tool is not intended to bypass protections, conduct illegal surveillance, or compromise third-party systems. Use it wisely, or not at all.
 
 ### <ins>Release?</ins> 
 *To be determined.*
