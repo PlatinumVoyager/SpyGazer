@@ -21,9 +21,9 @@ Rather than passively monitor, SPYGAZER is designed to function as a **central i
 * **Web Shell Access** – Seamless backend shell access from within the dashboard (e.g. subshell panel, redirectable viewport).
 * **Future Scope:**
   * Network Manager (Wireless AP/Client view, rogue access point handling)
-  * Device Behavior Fingerprinting
-  * Live packet-based notifications or triggers
-  * Extendable modules for engagement or research actions
+  * Device Behavior Fingerprinting.
+  * Live packet-based notifications or triggers.
+  * Extendable modules for engagement or research actions.
 
 ### ⚙️ Architecture
 * [Bottle](https://bottlepy.org/docs/dev/) - a lightweight WSGI micro web-framework used by the web application for path/request routing functionality.
@@ -31,9 +31,9 @@ Rather than passively monitor, SPYGAZER is designed to function as a **central i
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) - for the user-interface, files are hosted statically by SPYGAZER.
 * `gevent`, `geventwebsocket` - for server-side request routing throughout the front-end (Bottle) web application server.
 * Client-side Javascript for communicating with the python WSGI websocket server.
-* Designed for deployment on **personal, lab, or red team subnets**
-* Embedded HTTP server logic with a dynamic frontend
-* Lightweight footprint and highly customizable modules
+* Designed for deployment on **personal, lab, or red team subnets**.
+* Embedded HTTP server logic with a dynamic frontend.
+* Lightweight footprint and highly customizable modules.
 * Made with ❤️
 
 ## 📜 Ethical Use Policy
@@ -52,12 +52,12 @@ SPYGAZER is being built as both a **creative lab project** and a **potential pla
 
 ## 📁 Repository Status
 
-* 🛠️ Active Development
-* Code currently private
+* 🛠️ Active Development.
+* Code is currently private.
 
 ## 📌 Author
 
-Created and maintained by [PlatinumVoyager](https://github.com/PlatinumVoyager)
+Created and maintained by [PlatinumVoyager](https://github.com/PlatinumVoyager).
 
 ## Disclaimer
 
