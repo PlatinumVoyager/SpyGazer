@@ -93,7 +93,7 @@ The SPYGAZER authentication portal (login page) has a purposefully sleek and gen
 * Live animated background.
 * Real-time server updates within the dashboard viewport panel.
   
-![image](https://github.com/user-attachments/assets/c314a368-c78b-45a6-a583-57d0cd96bd95)
+![image](https://github.com/user-attachments/assets/c1315597-8f45-44cb-b945-91ffe0be6c26)
 
 ### > <ins>*Main Dashboard: Systemic Logger*</ins> (work-in progress)
 * Customized logging utilities.
