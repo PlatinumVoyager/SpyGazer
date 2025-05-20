@@ -80,7 +80,7 @@ The associated documentation will be available/produced as:
 > [!WARNING]
 > *All images depicted are a work-in progress and are not final.*
 
-## Weekly Snapshot Update:
+### Weekly Snapshot Update:
 *A WSU is simply a screenshot of the current development process.*
 
 <img src="https://github.com/user-attachments/assets/77d53ea9-949c-4c78-8e75-e40aca4e04c1" width="70%" height="70%">
