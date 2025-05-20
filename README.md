@@ -144,7 +144,7 @@ It simply means this was built within a separate HTML document then ported over 
 ![image](https://github.com/user-attachments/assets/f9de5143-2528-4f95-afe1-92ed09f9ba44)
 * `psutli_test.py` - Totally not a typo ;)
 
-<h3><ins>Websocket Shell Features</ins></h3>
+<h3><ins>Websocket Subshell Features</ins></h3>
 
 1. Command execution on the fly.
 1. In-built Python3 script manager (run, import).
