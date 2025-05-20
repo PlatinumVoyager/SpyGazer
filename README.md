@@ -98,29 +98,36 @@ The SPYGAZER authentication portal (login page) has a purposefully sleek and gen
 * Live animated background.
 * Real-time server updates within the dashboard viewport panel.
   
-![image](https://github.com/user-attachments/assets/c1315597-8f45-44cb-b945-91ffe0be6c26)
+<img src="https://github.com/user-attachments/assets/c1315597-8f45-44cb-b945-91ffe0be6c26" width="75%" height="75%">
 
 ### > <ins>*Main Dashboard: Systemic Logger*</ins> (work-in progress)
 * Customized logging utilities.
 * Server-wide event specific monitoring.
   
-![image](https://github.com/user-attachments/assets/48df861b-9713-4376-b18a-3330ce26faf4)
+<img src="https://github.com/user-attachments/assets/48df861b-9713-4376-b18a-3330ce26faf4" width="75%" height="75%">
 
 ### > <ins>*Process Manager*</ins> (OLD UI Mockup)
 *The old user interface for the SPYGAZER Process Manager before it was programatically implemented within the primary application interface.*
 
 It simply means this was built within a separate HTML document then ported over through the Python/JS backend. Take a look below nonetheless:
   
-![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
+<img src="https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707" width="75%" height="75%">
 
 ### > <ins>*Process Manager*</ins> (Dashboard Integration OLD)
-![image](https://github.com/user-attachments/assets/d261348e-bc14-46cc-ae02-ded6d60dcc7b)
+*The old UI Mockup has been successfully integrated within the primary application. This rough draft shows the evolution of complex software. Let this be known as Stage 1 of the official web interface.*
+
+<img src="https://github.com/user-attachments/assets/d261348e-bc14-46cc-ae02-ded6d60dcc7b" width="75%" height="75%">
 
 ### > <ins>*Process Manager*</ins> (Dashboard Integration NEW)
-![image](https://github.com/user-attachments/assets/10d09a3e-f18c-4148-9f6b-005027350fc0)
-![image](https://github.com/user-attachments/assets/fb3938fa-3482-4a21-8138-4fbcfb8d4c60)
-![image](https://github.com/user-attachments/assets/6528c9ea-49e3-41ef-8086-b233e1eca3dd)
-![image](https://github.com/user-attachments/assets/1ddef8b2-05a4-41db-b0e2-e426609fa76d)
+*This sets the stage for Stage 2 of the official SPYGAZER web application interface. This is the version you will see going forward with the development cycle.*
+
+<img src="https://github.com/user-attachments/assets/10d09a3e-f18c-4148-9f6b-005027350fc0" width="75%" height="75%">
+<img src="https://github.com/user-attachments/assets/fb3938fa-3482-4a21-8138-4fbcfb8d4c60" width="75%" height="75%">
+<img src="https://github.com/user-attachments/assets/6528c9ea-49e3-41ef-8086-b233e1eca3dd" width="75%" height="75%">
+<img src="https://github.com/user-attachments/assets/1ddef8b2-05a4-41db-b0e2-e426609fa76d" width="75%" height="75%">
+
+<hr>
+
 ![image](https://github.com/user-attachments/assets/c4966bc7-4e92-44ec-9bfb-e6dffed55902)
 
 * Added the ability to search through processes for information which concerns the following:
