@@ -128,7 +128,7 @@ It simply means this was built within a separate HTML document then ported over 
 
 <hr>
 
-![image](https://github.com/user-attachments/assets/c4966bc7-4e92-44ec-9bfb-e6dffed55902)
+<img src="https://github.com/user-attachments/assets/c4966bc7-4e92-44ec-9bfb-e6dffed55902" width="75%" height="75%">
 
 * Added the ability to search through processes for information which concerns the following:
    * Name of the process.
