@@ -25,7 +25,7 @@ Rather than passively monitor, SPYGAZER is designed to function as a **central i
   * Live packet-based notifications or triggers.
   * Extendable modules for engagement or research actions.
 
-### ⚙️ Architecture
+### ⚙️ Architecture:
 * [Bottle](https://bottlepy.org/docs/dev/) - a lightweight WSGI micro web-framework used by the web application for path/request routing functionality.
     * *Web Server Gateway Interface* (WSGI) - standard specification (PEP 3333) upon which servers and python web applications/frameworks can communicate. Read more [here](https://peps.python.org/pep-3333/).
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) - for the user-interface, files are hosted statically by SPYGAZER.
@@ -34,7 +34,6 @@ Rather than passively monitor, SPYGAZER is designed to function as a **central i
 * Designed for deployment on **personal, lab, or red team subnets**.
 * Embedded HTTP server logic with a dynamic frontend.
 * Lightweight footprint and highly customizable modules.
-* Made with ❤️
 
 ## 📜 Ethical Use Policy
 
@@ -51,17 +50,12 @@ SPYGAZER is being built as both a **creative lab project** and a **potential pla
 * **Private Path** *(Optional)*: Reserved features for controlled environments, red team simulation, and highly customized infrastructure operations.
 
 ## 📁 Repository Status
-
 * 🛠️ Active Development.
-* Code is currently private.
+* :closed_lock_with_key: Code is currently private.
 
 ## 📌 Author
 
 Created and maintained by [PlatinumVoyager](https://github.com/PlatinumVoyager).
-
-## :fire: Disclaimer
-
-This tool is not intended to bypass protections, conduct illegal surveillance, or compromise third-party systems. Use it wisely, or not at all.
 
 ### <ins>Release?</ins> 
 *To be determined.*
@@ -80,7 +74,7 @@ The associated documentation will be available/produced as:
 > [!WARNING]
 > *All images depicted are a work-in progress and are not final.*
 
-### Weekly Snapshot Update:
+### <ins>Weekly Snapshot Update</ins>:
 *A WSU is simply a screenshot of the current development process.*
 
 <img src="https://github.com/user-attachments/assets/77d53ea9-949c-4c78-8e75-e40aca4e04c1" width="70%" height="70%">
