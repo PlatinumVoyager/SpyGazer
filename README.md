@@ -107,6 +107,9 @@ The SPYGAZER authentication portal (login page) has a purposefully sleek and gen
 ![image](https://github.com/user-attachments/assets/48df861b-9713-4376-b18a-3330ce26faf4)
 
 ### > <ins>*Process Manager*</ins> (OLD UI Mockup)
+*The old user interface for the SPYGAZER Process Manager before it was programatically implemented within the primary application interface.*
+
+It simply means this was built within a separate HTML document then ported over through the Python/JS backend. Take a look below nonetheless:
   
 ![image](https://github.com/user-attachments/assets/916ed5ac-c2cb-47d0-b117-9ee91b8bd707)
 
