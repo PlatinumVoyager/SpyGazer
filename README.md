@@ -119,9 +119,6 @@ It simply means this was built within a separate HTML document then ported over 
 <img src="https://github.com/user-attachments/assets/fb3938fa-3482-4a21-8138-4fbcfb8d4c60" width="75%" height="75%">
 <img src="https://github.com/user-attachments/assets/6528c9ea-49e3-41ef-8086-b233e1eca3dd" width="75%" height="75%">
 <img src="https://github.com/user-attachments/assets/1ddef8b2-05a4-41db-b0e2-e426609fa76d" width="75%" height="75%">
-
-<hr>
-
 <img src="https://github.com/user-attachments/assets/c4966bc7-4e92-44ec-9bfb-e6dffed55902" width="75%" height="75%">
 
 * Added the ability to search through processes for information which concerns the following:
