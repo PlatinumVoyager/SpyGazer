@@ -59,14 +59,14 @@ SPYGAZER is being built as both a **creative lab project** and a **potential pla
 
 Created and maintained by [PlatinumVoyager](https://github.com/PlatinumVoyager).
 
-## Disclaimer
+## :fire: Disclaimer
 
 This tool is not intended to bypass protections, conduct illegal surveillance, or compromise third-party systems. Use it wisely, or not at all.
 
 ### <ins>Release?</ins> 
 *To be determined.*
 
-## Documentation
+## 📑 Documentation
 The associated documentation will be available/produced as:
    * A `.pdf` (Portable Document File) file subsequently made accessible when the project is open sourced with a public release coming in version 1.0.0.
    * A Github markdown based "wiki" page. (*NOTE*: This will be posted shortly after the `.pdf` file is integrated into this public repository)
@@ -76,9 +76,14 @@ The associated documentation will be available/produced as:
       * Documentation for the entire SPYGAZER web application may be built into the server directory itself at a later point in time.
 <br>
 
-## Graphical User Interface Preview
+## :eye: Graphical User Interface Preview
 > [!WARNING]
 > *All images depicted are a work-in progress and are not final.*
+
+## Weekly Snapshot Update:
+*A WSU is simply a screenshot of the current development process.*
+
+<img src="https://github.com/user-attachments/assets/77d53ea9-949c-4c78-8e75-e40aca4e04c1" width="70%" height="70%">
 
 ### > <ins>*Login Page*</ins>
 The SPYGAZER authentication portal (login page) has a purposefully sleek and generic graphical interface. 
