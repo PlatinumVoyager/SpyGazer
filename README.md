@@ -130,7 +130,7 @@ It simply means this was built within a separate HTML document then ported over 
          
 <hr>
 
-### > <ins>*Websocket Shell*</ins> (work-in progress)
+### > <ins>*Websocket System Subshell*</ins> (work-in progress)
 * Support for CSS (*Cascading Style Sheets*) font-family and font-size custom user defined declarations via JavaScript DOM manipulation will come before release.
   
 ![image](https://github.com/user-attachments/assets/3011dc6e-1d3b-4737-a063-6586e38259ee)
