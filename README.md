@@ -77,7 +77,7 @@ The associated documentation will be available/produced as:
 ### <ins>Weekly Snapshot Update</ins>:
 *A WSU is simply a screenshot of the current development process.*
 
-<img src="https://github.com/user-attachments/assets/77d53ea9-949c-4c78-8e75-e40aca4e04c1" width="70%" height="70%">
+<img src="https://github.com/user-attachments/assets/43fd1a56-e9ea-4777-96d5-7d0e8c723baa" width="70%" height="70%">
 
 ### > <ins>*Login Page*</ins>
 The SPYGAZER authentication portal (login page) has a purposefully sleek and generic graphical interface. 
