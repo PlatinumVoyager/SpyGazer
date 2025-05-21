@@ -47,7 +47,7 @@ Any unauthorized deployment or use may violate local, state, or federal law.
 
 SPYGAZER is being built as both a **creative lab project** and a **potential platform for advanced security research.**
 * **Public Path**: Secure, ethical, and open-source components intended for community collaboration, learning, and experimentation.
-* **Private Path** *(Optional)*: Reserved features for controlled environments, red team simulation, and highly customized infrastructure operations.
+* **Private Path** *(Optional)*: Reserved features for controlled environments, adversarial emulation, and highly customized infrastructure operations.
 
 ## 📁 Repository Status
 * 🛠️ Active Development.
