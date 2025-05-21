@@ -76,7 +76,7 @@ The associated documentation will be available/produced as:
 
 ### <ins>Weekly Snapshot Update</ins>:
 *A WSU is simply a screenshot of the current development process.*
-* This snapshot instance (as seen below) has been tested and confirmed to run on a base [Raspberry PI 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/).
+* This snapshot instance (as seen below) has been tested and confirmed to run on a base [Raspberry PI 4](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/specifications/).
 
 <img src="https://github.com/user-attachments/assets/43fd1a56-e9ea-4777-96d5-7d0e8c723baa" width="70%" height="70%">
 
